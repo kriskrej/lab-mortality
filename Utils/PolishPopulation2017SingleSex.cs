@@ -1,4 +1,4 @@
-﻿namespace MortalityWHO {
+﻿namespace MortalityWHO.Utils {
     public class PolishPopulation2017SingleSex {
         public int agesAll;
         public int age0;

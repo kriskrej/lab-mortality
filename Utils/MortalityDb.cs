@@ -1,12 +1,11 @@
 ﻿using CsvHelper;
-using MortalityWHO.Utils;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
 
-namespace MortalityWHO {
+namespace MortalityWHO.Utils {
     internal class MortalityDb {
         public IEnumerable<MortalityCause> records;
 
