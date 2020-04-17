@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="A:\MortalityWHO" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="data" t="Include">
+        <e p="ICD10pl.csv" t="Include" />
+        <e p="mortality-Poland-2017.txt" t="Include" />
+      </e>
+      <e p="MortalityCause.cs" t="Include" />
+      <e p="MortalityDb.cs" t="Include" />
+      <e p="MortalityWHO.csproj" t="IncludeRecursive" />
+      <e p="MortalityWHO.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="MortalityWHO.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PolishPopulation2017.cs" t="Include" />
+      <e p="PolishPopulation2017SingleSex.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\osars\.Rider2018.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\osars\.Rider2018.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\osars\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\osars\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_MortalityWHO.-1481798541.00" t="ExcludeRecursive" />
+  </component>
+</project>
